@@ -1,2 +1,2 @@
-# Super Rinkerby Game
+# Super Rinkeby Game
 
