@@ -11,9 +11,3 @@ Video Demo: https://www.youtube.com/watch?v=sXCl2MydhnA
 1. Click Play to play the game
 2. Click on Buy NFTs to buy a magenta-colored character (limited to 33 - currently out of stock). Once you bu the magenta-colored character, go back to play the game and you will see that your character is now magneta-colored. 
 
-## Presentation of ideas for scaling microtransactions: 
-https://www.canva.com/design/DAEV7nFNYyQ/XmItrchj1ZwGtsc-whJojQ/view?utm_content=DAEV7nFNYyQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
-Scaling microtransactions on the blockchain remains a challenge today. We developed five ideas that would help with scaling on the blockchain including:
-Sharding 2.0 - dedicated nodes to validating DApp-specific data
-Community-centric validation - Each game download would include a node download. Gamers can decide if they want to toggle their node capacity on/off and depending on how much storage they want to provide. Gamers who participate will receive more in-game points. 
