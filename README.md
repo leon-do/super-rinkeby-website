@@ -1,4 +1,4 @@
-# Super Rinkerby Game (+ ideas for scaling microtransactions)
+# Super Rinkerby Game
 
 ![](https://user-images.githubusercontent.com/19412160/107607816-4fd79a00-6c08-11eb-92f2-668f07813108.png)
 
